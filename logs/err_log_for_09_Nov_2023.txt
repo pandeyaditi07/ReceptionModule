@@ -1,0 +1,443 @@
+[09-Nov-2023 09:59:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[09-Nov-2023 12:08:16 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_courier_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\app\courier\index.php(84): TOTAL('SELECT receptio...')
+#2 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[09-Nov-2023 12:18:20 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_sitevisit' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\app\SiteVisit\index.php(92): TOTAL('SELECT receptio...')
+#2 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[09-Nov-2023 14:16:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_courier_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(15): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\staff-in-out\index.php(175): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:17:40 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_courier_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(15): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\courier\index.php(186): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:21:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_courier_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(15): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\courier\index.php(186): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:21:24 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_courier_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(15): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\courier\index.php(186): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:21:52 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_sitevisit_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\site-visit-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(16): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\courier\index.php(186): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:21:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_sitevisit_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\site-visit-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(16): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\courier\index.php(186): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:21:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_sitevisit_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\site-visit-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(16): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\SiteVisit\index.php(249): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:21:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_sitevisit_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\site-visit-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(16): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\SiteVisit\index.php(249): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:22:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_sitevisit_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\site-visit-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(16): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\visitors\index.php(179): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:22:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_sitevisit_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\site-visit-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(16): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\courier\index.php(186): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:22:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_sitevisit_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\site-visit-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(16): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\staff-in-out\index.php(175): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:22:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_sitevisit_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\site-visit-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(16): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\activity\index.php(181): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:24:15 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_courier_status' in 'field list' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php(12): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php(2): CHECK('SELECT receptio...')
+#2 C:\xampp\htdocs\reception\include\app\Footer.php(15): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\reception\app\activity\index.php(181): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Checker.php on line 12
+[09-Nov-2023 14:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:25:49 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:26:04 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:26:12 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:26:13 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:26:14 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:26:14 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:26:15 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:26:57 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:27:07 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:27:09 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:27:13 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:27:14 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:27:24 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 14:31:38 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:03:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:07:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:08:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:08:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:17:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:17:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:19:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:19:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:19:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:22:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:23:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:24:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:24:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonName in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 35
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 37
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 38
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonPhone in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 40
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorPersonEmailId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 41
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorId in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 15:27:25 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:27:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' user_out_time FROM user_in_out u INNER JOINS users d On u.user_in_out_id = d...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php(25): _DB_COMMAND_('SELECT UserFull...')
+#3 C:\xampp\htdocs\reception\include\app\Footer.php(15): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\reception\app\activity\index.php(181): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[09-Nov-2023 15:31:05 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:31:05 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM reception_courier u INNER JOINS users d On u.reception_courier_id = d.Us...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php(25): _DB_COMMAND_('SELECT UserFull...')
+#3 C:\xampp\htdocs\reception\include\app\Footer.php(15): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\reception\app\activity\index.php(181): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[09-Nov-2023 15:31:51 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:31:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOINS users d On u.reception_courier_id = d.UserId' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php(25): _DB_COMMAND_('SELECT UserFull...')
+#3 C:\xampp\htdocs\reception\include\app\Footer.php(15): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\reception\app\activity\index.php(181): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[09-Nov-2023 15:32:29 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:32:29 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 15:33:09 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:33:09 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 15:35:14 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:35:14 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 15:37:24 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:37:24 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 15:42:11 Asia/Calcutta] PHP Parse error:  Unmatched '}' in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 77
+[09-Nov-2023 15:42:40 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:42:40 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 15:42:43 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:42:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 15:43:11 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:43:11 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 15:43:25 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:43:25 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 15:44:02 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:44:02 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 15:47:59 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 15:47:59 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 28
+[09-Nov-2023 16:00:24 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 16:00:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$reception_courier_id in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 16:00:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$reception_courier_id in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 16:04:16 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 16:04:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$reception_courier_id in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 16:04:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$reception_courier_id in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 16:04:26 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 16:04:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$reception_courier_id in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 46
+[09-Nov-2023 16:04:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$reception_courier_id in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 52
+[09-Nov-2023 16:05:33 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 16:17:22 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 16:17:28 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:54:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[09-Nov-2023 20:54:38 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:54:48 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:54:54 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:56:41 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:56:43 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:56:50 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:56:54 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:58:24 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:58:27 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:58:31 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 20:58:56 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 21:00:11 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 21:00:12 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15
+[09-Nov-2023 21:31:23 Asia/Calcutta] PHP Warning:  Undefined variable $block in C:\xampp\htdocs\reception\include\alerts\courier-pop-window.php on line 15

@@ -1,0 +1,904 @@
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\sitevisit\index.php(30): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 10:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[24-Nov-2023 12:09:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[24-Nov-2023 12:09:20 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:20 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:20 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:20 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:25 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:25 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:25 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:25 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:26 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:26 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:26 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:26 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:27 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:27 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:27 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:27 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:28 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:28 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:28 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:28 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:31 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:31 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:31 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:31 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:35 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:35 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:09:35 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:35 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:09:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:09:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:09:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:09:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:10:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM  ...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM  ...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(251): _DB_COMMAND_('SELECT * FROM  ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 12:13:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:13:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:13:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:13:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:13:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:13:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:14:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:14:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:14:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:14:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:14:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:14:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:14:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:14:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserType in C:\xampp\htdocs\reception\app\staff-in-out\export.php on line 65
+[24-Nov-2023 12:18:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:18:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:18:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:18:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 12:18:12 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:18:12 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:18:12 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:18:12 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:29:58 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:29:58 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:29:58 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:29:58 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:30:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:30:06 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:30:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:30:06 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:30:22 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:30:22 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:30:22 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:30:22 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:41:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\sitevisit\export.php on line 67
+[24-Nov-2023 12:44:40 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:44:40 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:44:40 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:44:40 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[24-Nov-2023 12:51:53 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:51:53 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:51:53 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:51:53 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:51:58 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:51:58 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:51:58 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:51:58 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:52:58 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:01 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:04 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:07 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:09 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:13 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:15 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:18 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:21 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:23 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:28 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:31 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:33 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:35 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:38 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:41 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:43 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:45 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:48 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:50 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:53 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:55 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:53:57 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:54:00 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[24-Nov-2023 12:54:02 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:54:02 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:54:02 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:54:02 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:54:28 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:54:28 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:54:28 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:54:28 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:54:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:54:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:54:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:54:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:54:37 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:54:37 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:54:37 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:54:37 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:55:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:55:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:55:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:55:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:55:38 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:55:38 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:55:38 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:55:38 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:55:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:55:49 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:55:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:55:49 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:56:05 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:56:05 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:56:05 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:56:05 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:56:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:56:09 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:56:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:56:09 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:56:19 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 195
+[24-Nov-2023 12:57:08 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:57:08 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:57:08 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:57:08 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:57:16 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:57:16 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:57:16 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:57:16 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:57:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:57:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 12:57:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 12:57:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 13:03:55 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_user_main_id" in C:\xampp\htdocs\reception\app\courier\index.php on line 227
+[24-Nov-2023 13:03:55 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_state" in C:\xampp\htdocs\reception\app\courier\index.php on line 231
+[24-Nov-2023 13:03:55 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(244): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:05:19 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_user_main_id" in C:\xampp\htdocs\reception\app\courier\index.php on line 227
+[24-Nov-2023 13:05:19 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_state" in C:\xampp\htdocs\reception\app\courier\index.php on line 231
+[24-Nov-2023 13:05:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(244): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_user_main_id" in C:\xampp\htdocs\reception\app\courier\index.php on line 227
+[24-Nov-2023 13:06:10 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_state" in C:\xampp\htdocs\reception\app\courier\index.php on line 231
+[24-Nov-2023 13:06:10 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(244): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:06:37 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_state" in C:\xampp\htdocs\reception\app\courier\index.php on line 231
+[24-Nov-2023 13:06:37 Asia/Calcutta] PHP Warning:  Undefined variable $reception_courier_user_main_id in C:\xampp\htdocs\reception\app\courier\index.php on line 239
+[24-Nov-2023 13:06:37 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(244): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:07:17 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_user_main_id" in C:\xampp\htdocs\reception\app\courier\index.php on line 227
+[24-Nov-2023 13:07:17 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_state" in C:\xampp\htdocs\reception\app\courier\index.php on line 231
+[24-Nov-2023 13:07:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FromDate<='' and ToDate<='' and reception_courier_name_of_party like '%Arian%...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(244): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:07:34 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_state" in C:\xampp\htdocs\reception\app\courier\index.php on line 231
+[24-Nov-2023 13:07:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FromDate<='' and ToDate<='' and reception_courier_name_of_party like '%Adu%' ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(244): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:08:34 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_state" in C:\xampp\htdocs\reception\app\courier\index.php on line 231
+[24-Nov-2023 13:08:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FromDate<='' and ToDate<='' and reception_courier_name_of_party like '%Adu%' ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(244): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:08:56 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_state" in C:\xampp\htdocs\reception\app\courier\index.php on line 231
+[24-Nov-2023 13:08:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FromDate<='' and ToDate<='' and reception_courier_name_of_party like '%Adu%' ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(244): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:10:48 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_state" in C:\xampp\htdocs\reception\app\courier\index.php on line 227
+[24-Nov-2023 13:10:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FromDate<='' and ToDate<='' and reception_courier_name_of_party like '%Adu%' ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(240): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:11:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FromDate<='' and ToDate<='' and reception_courier_name_of_party like '%justin...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(240): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:13:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:13:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:13:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:13:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:15:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:16:13 Asia/Calcutta] PHP Warning:  Undefined array key "reception_activity_user_main_id" in C:\xampp\htdocs\reception\app\activity\index.php on line 218
+[24-Nov-2023 13:16:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:17:15 Asia/Calcutta] PHP Warning:  Undefined array key "reception_activity_user_main_id" in C:\xampp\htdocs\reception\app\activity\index.php on line 219
+[24-Nov-2023 13:17:15 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:17:32 Asia/Calcutta] PHP Warning:  Undefined variable $reception_activity_user_main_id in C:\xampp\htdocs\reception\app\activity\index.php on line 228
+[24-Nov-2023 13:17:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:18:56 Asia/Calcutta] PHP Warning:  Undefined array key "reception_activity_user_main_id" in C:\xampp\htdocs\reception\app\activity\index.php on line 219
+[24-Nov-2023 13:18:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'reception_activity_user_main_id LIKE '%reception_activity_user_main_id%' and ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:19:28 Asia/Calcutta] PHP Warning:  Undefined array key "reception_activity_user_main_id" in C:\xampp\htdocs\reception\app\activity\index.php on line 219
+[24-Nov-2023 13:19:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'reception_activity_user_main_id like '%reception_activity_user_main_id%' and ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:19:53 Asia/Calcutta] PHP Warning:  Undefined array key "reception_activity_user_main_id" in C:\xampp\htdocs\reception\app\activity\index.php on line 219
+[24-Nov-2023 13:19:53 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'reception_activity_user_main_id like '%reception_activity_user_main_id%' and ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 13:20:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 13:20:34 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 13:20:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 13:20:34 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 13:20:38 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 13:20:38 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 13:20:38 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 13:20:38 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 13:20:47 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 13:20:47 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 13:20:47 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 13:20:47 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 13:20:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:20:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:20:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:20:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 13:21:03 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 13:21:03 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 13:21:03 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 13:21:03 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 14:01:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:01:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 14:33:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'reception_courier_status like '%%' and FromDate<= '' and ToDate<= '' and rece...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(258): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 14:34:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(258): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 14:34:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(258): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 14:34:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(258): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 14:46:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'reception_courier_name_of_party like '%%' and  reception_courier_status like ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(258): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 14:51:42 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_courier_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\courier\index.php(259): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 15:04:25 Asia/Calcutta] PHP Warning:  Undefined variable $FromDate in C:\xampp\htdocs\reception\app\courier\index.php on line 259
+[24-Nov-2023 15:05:20 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_date" in C:\xampp\htdocs\reception\app\courier\index.php on line 250
+[24-Nov-2023 15:07:54 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_date" in C:\xampp\htdocs\reception\app\courier\index.php on line 250
+[24-Nov-2023 15:08:42 Asia/Calcutta] PHP Warning:  Undefined array key "FromDate" in C:\xampp\htdocs\reception\app\courier\index.php on line 250
+[24-Nov-2023 15:08:42 Asia/Calcutta] PHP Warning:  Undefined array key "ToDate" in C:\xampp\htdocs\reception\app\courier\index.php on line 251
+[24-Nov-2023 15:10:14 Asia/Calcutta] PHP Warning:  Undefined array key "ToDate" in C:\xampp\htdocs\reception\app\courier\index.php on line 251
+[24-Nov-2023 15:10:21 Asia/Calcutta] PHP Warning:  Undefined array key "ToDate" in C:\xampp\htdocs\reception\app\courier\index.php on line 251
+[24-Nov-2023 15:11:19 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_date" in C:\xampp\htdocs\reception\app\courier\index.php on line 250
+[24-Nov-2023 15:11:19 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_date" in C:\xampp\htdocs\reception\app\courier\index.php on line 251
+[24-Nov-2023 15:13:08 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_date" in C:\xampp\htdocs\reception\app\courier\index.php on line 250
+[24-Nov-2023 15:13:08 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_date" in C:\xampp\htdocs\reception\app\courier\index.php on line 251
+[24-Nov-2023 15:32:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:32:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:32:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:32:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:32:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:32:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:32:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:32:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:37:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:37:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:37:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:37:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:37:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:37:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:37:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:37:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:48:48 Asia/Calcutta] PHP Warning:  Undefined array key "reception_activity_user_main_id" in C:\xampp\htdocs\reception\app\activity\index.php on line 219
+[24-Nov-2023 15:48:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'reception_activity_user_main_id like '%reception_activity_user_main_id%' and ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 15:49:34 Asia/Calcutta] PHP Warning:  Undefined array key "reception_activity_user_main_id" in C:\xampp\htdocs\reception\app\activity\index.php on line 219
+[24-Nov-2023 15:49:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'reception_activity_user_main_id like '%reception_activity_user_main_id%' and ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 15:49:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:49:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:49:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:49:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 15:50:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'reception_activity_user_main_id like '%reception_activity_user_main_id%' and ...' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 15:51:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 15:51:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 15:52:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 15:52:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 16:00:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(234): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 16:12:11 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 195
+[24-Nov-2023 16:15:51 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 195
+[24-Nov-2023 16:27:28 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 297
+[24-Nov-2023 16:29:10 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 297
+[24-Nov-2023 16:30:49 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 297
+[24-Nov-2023 16:31:41 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 297
+[24-Nov-2023 16:31:44 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 297
+[24-Nov-2023 16:31:58 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 297
+[24-Nov-2023 16:35:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[24-Nov-2023 16:35:40 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:40 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:40 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:40 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:45 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:45 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:45 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:45 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:46 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:46 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:46 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:46 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:49 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:49 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:50 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:50 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:35:50 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:35:50 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:59:33 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:59:33 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 16:59:33 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:59:33 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 16:59:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 16:59:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 16:59:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 16:59:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:13:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'reception_activity_state like '%%'  order by reception_activity_id' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(252): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 17:21:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order by reception_activity_id' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(252): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 17:32:04 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_activity_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\activity\index.php(253): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 17:33:44 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 17:33:44 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 17:33:44 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 17:33:44 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 17:33:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:33:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:33:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:33:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:35:22 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 17:35:22 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 17:35:22 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 17:35:22 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 17:35:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 17:35:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 17:35:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 17:35:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 17:35:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:35:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:35:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:35:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:38:02 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 17:38:02 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 17:38:02 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 17:38:02 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 17:39:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:39:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:39:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:39:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:39:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:39:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:39:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:39:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 17:42:29 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_sitevisit_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(281): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 17:50:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_sitevisit_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(281): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 17:59:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(269): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 20:05:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[24-Nov-2023 20:05:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:34 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:34 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:46 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:46 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:46 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:46 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:47 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:47 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:47 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:47 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:49 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:49 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:49 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:50 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:50 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:50 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:50 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:52 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:52 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:05:52 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:05:52 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:08:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_meeting_customer_mobile' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(269): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 20:12:16 Asia/Calcutta] PHP Warning:  Undefined array key "recption_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 258
+[24-Nov-2023 20:13:01 Asia/Calcutta] PHP Warning:  Undefined array key "recption_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 258
+[24-Nov-2023 20:13:01 Asia/Calcutta] PHP Warning:  Undefined variable $reception_meeting_date in C:\xampp\htdocs\reception\app\meeting\index.php on line 269
+[24-Nov-2023 20:13:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Date(reception_meeting_date)<='%%'  ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(269): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 20:14:12 Asia/Calcutta] PHP Warning:  Undefined array key "recption_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 258
+[24-Nov-2023 20:14:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Date(reception_meeting_date)<='%2023-10-24%'  ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(269): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 20:15:19 Asia/Calcutta] PHP Warning:  Undefined array key "recption_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 258
+[24-Nov-2023 20:15:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Date(reception_meeting_date)<='%2023-10-24%'  ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(269): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 20:16:31 Asia/Calcutta] PHP Warning:  Undefined array key "recption_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 258
+[24-Nov-2023 20:16:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Date(reception_meeting_date)<='%2023-10-24%'  ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(269): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 20:17:03 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:17:03 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:17:03 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:17:03 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:17:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Date(reception_meeting_date)<='%2023-10-24%'  ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(269): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 20:18:33 Asia/Calcutta] PHP Warning:  Undefined variable $ToDate in C:\xampp\htdocs\reception\app\meeting\index.php on line 269
+[24-Nov-2023 20:18:51 Asia/Calcutta] PHP Warning:  Undefined variable $ToDate in C:\xampp\htdocs\reception\app\meeting\index.php on line 269
+[24-Nov-2023 20:18:59 Asia/Calcutta] PHP Warning:  Undefined variable $ToDate in C:\xampp\htdocs\reception\app\meeting\index.php on line 269
+[24-Nov-2023 20:19:10 Asia/Calcutta] PHP Warning:  Undefined variable $ToDate in C:\xampp\htdocs\reception\app\meeting\index.php on line 269
+[24-Nov-2023 20:21:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_sitevisit_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(281): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 20:45:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_sitevisit_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(280): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[24-Nov-2023 20:53:08 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:53:08 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:53:08 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:53:08 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:53:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 20:53:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 20:53:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 20:53:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[24-Nov-2023 20:53:21 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:53:21 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:53:21 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:53:21 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:53:50 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:53:50 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[24-Nov-2023 20:53:50 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[24-Nov-2023 20:53:50 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47

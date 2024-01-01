@@ -1,0 +1,12 @@
+.top-card{
+    display: flex !important; 
+    justify-content: space-around   !important; 
+    align-items: center !important; 
+    height: 75%; 
+
+}
+.card {
+    /* height: 200px;  */
+    height: 100px;
+    width: 200px;
+}

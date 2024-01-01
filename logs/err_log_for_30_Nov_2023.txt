@@ -1,0 +1,5 @@
+[30-Nov-2023 15:03:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20

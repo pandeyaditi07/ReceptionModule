@@ -1,0 +1,340 @@
+[18-Nov-2023 10:09:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[18-Nov-2023 10:09:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:09:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:09:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:09:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:13:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:13:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:13:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:13:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:20:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:20:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:20:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:20:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:20:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:20:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:20:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:20:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:21:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:21:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:21:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:21:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:45:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:45:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:45:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:45:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:46:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:46:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:46:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:46:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 10:59:58 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 10:59:58 Asia/Calcutta] PHP Warning:  Attempt to read property "VisitEnquiryStatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 10:59:58 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 50
+[18-Nov-2023 10:59:58 Asia/Calcutta] PHP Warning:  Attempt to read property "StaffInoutstatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 50
+[18-Nov-2023 11:00:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:00:48 Asia/Calcutta] PHP Warning:  Attempt to read property "VisitEnquiryStatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:00:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 50
+[18-Nov-2023 11:00:48 Asia/Calcutta] PHP Warning:  Attempt to read property "StaffInoutstatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 50
+[18-Nov-2023 11:01:39 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:01:39 Asia/Calcutta] PHP Warning:  Attempt to read property "VisitEnquiryStatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:01:39 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 50
+[18-Nov-2023 11:01:39 Asia/Calcutta] PHP Warning:  Attempt to read property "StaffInoutstatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 50
+[18-Nov-2023 11:02:02 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:02:02 Asia/Calcutta] PHP Warning:  Attempt to read property "VisitEnquiryStatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:02:02 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 50
+[18-Nov-2023 11:02:02 Asia/Calcutta] PHP Warning:  Attempt to read property "StaffInoutstatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 50
+[18-Nov-2023 11:05:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:05:09 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:05:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 11:05:09 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 11:05:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 57
+[18-Nov-2023 11:05:09 Asia/Calcutta] PHP Warning:  Attempt to read property "VisitEnquiryStatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 57
+[18-Nov-2023 11:05:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 65
+[18-Nov-2023 11:05:09 Asia/Calcutta] PHP Warning:  Attempt to read property "StaffInoutstatus" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 65
+[18-Nov-2023 11:05:33 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:05:33 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:05:33 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 11:05:33 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 11:06:16 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:06:16 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 11:06:16 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 11:06:16 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 11:06:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 11:06:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 11:06:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 11:06:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 11:06:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 11:06:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 11:06:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 11:06:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:14:42 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\reception\acm\SysModules\HTML_Modules\Form.php on line 55
+[18-Nov-2023 12:14:42 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\reception\acm\SysModules\HTML_Modules\Form.php on line 55
+[18-Nov-2023 12:15:24 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:15:24 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:15:24 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:15:24 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:17:07 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:17:07 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:17:07 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:17:07 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:41:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:41:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:41:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:41:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:44:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:44:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:44:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:44:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:44:59 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:44:59 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:44:59 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:44:59 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:45:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:45:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:45:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:45:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:47:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:47:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:47:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:47:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 12:51:42 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:51:42 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:51:42 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:51:42 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:51:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:51:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:51:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:51:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:55:56 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:55:56 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:55:56 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:55:56 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:56:00 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:56:00 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:56:00 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:56:00 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:56:55 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:56:55 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:56:55 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:56:55 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:58:56 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:58:56 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:58:56 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:58:56 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:59:22 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:59:22 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 12:59:22 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 12:59:22 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:01:11 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:01:11 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:01:11 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:01:11 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:01:29 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:01:29 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:01:29 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:01:29 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:02:35 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:02:35 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:02:35 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:02:35 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:02:47 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:02:47 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:02:47 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:02:47 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:03:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:03:09 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:03:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:03:09 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:03:24 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:03:24 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:03:24 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:03:24 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:03:41 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 40
+[18-Nov-2023 13:03:45 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:03:45 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:03:45 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:03:45 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:03:55 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:03:55 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:03:55 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:03:55 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:04:02 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:04:02 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:04:02 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:04:02 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:04:17 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:04:17 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:04:17 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:04:17 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:04:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:04:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:04:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:04:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:35:33 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:35:33 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 13:35:33 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:35:33 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 13:35:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:35:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:35:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:35:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:38:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:38:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:38:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 13:38:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 15:35:09 Asia/Calcutta] PHP Warning:  Undefined array key "reception_sitevisit_approved_by" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 351
+[18-Nov-2023 16:34:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:34:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:34:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:34:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:38:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:38:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:38:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:38:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:38:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:38:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:38:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:38:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:41:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:41:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:41:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:41:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:42:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:42:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:42:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:42:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:42:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:42:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:42:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:42:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:42:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 16:42:34 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 16:42:34 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 16:42:34 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 16:46:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:46:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:47:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:48:59 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 16:48:59 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 16:48:59 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 16:48:59 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 16:49:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:49:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:50 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 16:50:50 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 16:50:50 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 16:50:50 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 16:50:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:50:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:51:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:51:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:51:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:51:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:52:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:52:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:52:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:52:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:52:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:52:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:52:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:52:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:55:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:55:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:55:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:55:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:55:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:55:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:55:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 16:55:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:27:54 Asia/Calcutta] PHP Warning:  Undefined array key "reception_sitevisit_approved_by" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 219
+[18-Nov-2023 17:28:19 Asia/Calcutta] PHP Warning:  Undefined array key "reception_sitevisit_approved_by" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 219
+[18-Nov-2023 17:31:55 Asia/Calcutta] PHP Warning:  Undefined array key "reception_sitevisit_approved_by" in C:\xampp\htdocs\reception\handler\ModuleController\VisitController.php on line 219
+[18-Nov-2023 17:39:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:39:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:39:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:39:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:41:18 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 17:41:18 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 17:41:18 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 17:41:18 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 17:41:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:41:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:41:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:41:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:51:35 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 17:51:35 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 17:51:35 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 17:51:35 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 17:51:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:51:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:51:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:51:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:52:31 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 17:52:31 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[18-Nov-2023 17:52:31 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 17:52:31 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[18-Nov-2023 17:52:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:52:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:52:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[18-Nov-2023 17:52:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118

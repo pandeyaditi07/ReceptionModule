@@ -1,0 +1,835 @@
+[23-Nov-2023 11:45:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[23-Nov-2023 11:45:23 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:23 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:23 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:23 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:27 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:27 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:27 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:27 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:28 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:28 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:28 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:28 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:29 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:29 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:29 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:29 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:30 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:30 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:31 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:31 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 11:45:31 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:45:31 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 11:48:33 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 235
+[23-Nov-2023 11:48:33 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 236
+[23-Nov-2023 11:48:33 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 11:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $user_main_id in C:\xampp\htdocs\reception\app\meeting\index.php on line 240
+[23-Nov-2023 11:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $reception_meeting_status in C:\xampp\htdocs\reception\app\meeting\index.php on line 245
+[23-Nov-2023 11:48:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(245): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 11:49:51 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 235
+[23-Nov-2023 11:49:51 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 236
+[23-Nov-2023 11:49:51 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 11:49:51 Asia/Calcutta] PHP Warning:  Undefined variable $user_main_id in C:\xampp\htdocs\reception\app\meeting\index.php on line 240
+[23-Nov-2023 11:49:51 Asia/Calcutta] PHP Warning:  Undefined variable $reception_meeting_status in C:\xampp\htdocs\reception\app\meeting\index.php on line 245
+[23-Nov-2023 11:49:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(245): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 11:50:14 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 235
+[23-Nov-2023 11:50:14 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 236
+[23-Nov-2023 11:50:14 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 11:50:14 Asia/Calcutta] PHP Warning:  Undefined variable $user_main_id in C:\xampp\htdocs\reception\app\meeting\index.php on line 240
+[23-Nov-2023 11:50:14 Asia/Calcutta] PHP Warning:  Undefined variable $reception_meeting_status in C:\xampp\htdocs\reception\app\meeting\index.php on line 245
+[23-Nov-2023 11:50:14 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(245): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 11:58:59 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 235
+[23-Nov-2023 11:58:59 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 236
+[23-Nov-2023 11:58:59 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 11:58:59 Asia/Calcutta] PHP Warning:  Undefined variable $user_main_id in C:\xampp\htdocs\reception\app\meeting\index.php on line 240
+[23-Nov-2023 11:58:59 Asia/Calcutta] PHP Warning:  Undefined variable $reception_meeting_status in C:\xampp\htdocs\reception\app\meeting\index.php on line 245
+[23-Nov-2023 11:58:59 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(245): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:00:50 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 235
+[23-Nov-2023 12:00:50 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 236
+[23-Nov-2023 12:00:50 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 240
+[23-Nov-2023 12:00:50 Asia/Calcutta] PHP Warning:  Undefined variable $user_main_id in C:\xampp\htdocs\reception\app\meeting\index.php on line 241
+[23-Nov-2023 12:00:50 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(246): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:04:36 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 235
+[23-Nov-2023 12:04:36 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 236
+[23-Nov-2023 12:04:36 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 240
+[23-Nov-2023 12:04:36 Asia/Calcutta] PHP Warning:  Undefined variable $user_main_id in C:\xampp\htdocs\reception\app\meeting\index.php on line 241
+[23-Nov-2023 12:04:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(246): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:05:13 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 235
+[23-Nov-2023 12:05:13 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 236
+[23-Nov-2023 12:05:13 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 240
+[23-Nov-2023 12:05:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(246): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:06:18 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 235
+[23-Nov-2023 12:06:18 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 236
+[23-Nov-2023 12:06:18 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 240
+[23-Nov-2023 12:06:18 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(246): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:09:11 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 237
+[23-Nov-2023 12:09:11 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 238
+[23-Nov-2023 12:09:11 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:09:11 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:09:17 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 237
+[23-Nov-2023 12:09:17 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 238
+[23-Nov-2023 12:09:17 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:09:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:09:35 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 237
+[23-Nov-2023 12:09:35 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 238
+[23-Nov-2023 12:09:35 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:09:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:09:37 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 237
+[23-Nov-2023 12:09:37 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 238
+[23-Nov-2023 12:09:37 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:09:37 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:10:52 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 237
+[23-Nov-2023 12:10:52 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 238
+[23-Nov-2023 12:10:52 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:10:52 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:11:21 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 237
+[23-Nov-2023 12:11:21 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 238
+[23-Nov-2023 12:11:21 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:11:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:11:34 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 237
+[23-Nov-2023 12:11:34 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 238
+[23-Nov-2023 12:11:34 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:11:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:13:23 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_customer_mobile" in C:\xampp\htdocs\reception\app\meeting\index.php on line 237
+[23-Nov-2023 12:13:23 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_city" in C:\xampp\htdocs\reception\app\meeting\index.php on line 238
+[23-Nov-2023 12:13:23 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:13:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:13:34 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 12:13:34 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:13:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:13:45 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 12:13:45 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:13:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:14:21 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 12:14:21 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\meeting\index.php on line 242
+[23-Nov-2023 12:14:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:14:57 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 12:14:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:15:01 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 12:15:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:16:01 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 12:16:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:19:13 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 12:19:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:19:17 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 12:19:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 239
+[23-Nov-2023 12:19:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(248): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:21:48 Asia/Calcutta] PHP Warning:  Undefined array key "reception_meeting_state" in C:\xampp\htdocs\reception\app\meeting\index.php on line 236
+[23-Nov-2023 12:21:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(245): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:22:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(245): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:22:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY reception_meeting_id DESC' at line 1 in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(245): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 12:35:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_meeting_customer_mobile' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM r...')
+#2 C:\xampp\htdocs\reception\app\meeting\index.php(238): _DB_COMMAND_('SELECT * FROM r...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 13:06:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[23-Nov-2023 13:06:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[23-Nov-2023 13:06:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[23-Nov-2023 13:06:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 64
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 65
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 64
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 65
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 64
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 65
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 64
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 65
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 64
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 65
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 64
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 65
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 64
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 65
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:10:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 67
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 68
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\meeting\export.php on line 70
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:13:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 71
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:45:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\meeting\export.php on line 69
+[23-Nov-2023 13:46:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:46:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:46:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:46:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:46:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:46:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:46:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:47:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 13:48:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\meeting\export.php on line 66
+[23-Nov-2023 15:13:05 Asia/Calcutta] PHP Warning:  Undefined array key "ToDATE" in C:\xampp\htdocs\reception\app\courier\index.php on line 182
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:42:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:45:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:46:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\courier\export.php on line 70
+[23-Nov-2023 15:47:05 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 15:47:05 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[23-Nov-2023 15:47:05 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 15:47:05 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[23-Nov-2023 15:47:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[23-Nov-2023 15:47:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[23-Nov-2023 15:47:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[23-Nov-2023 15:47:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$StaffInoutstatus in C:\xampp\htdocs\reception\include\forms\Update_Staff_In_Out_TimePopWindow.php on line 118
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\app\activity\export.php on line 64
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\activity\export.php on line 67
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\app\activity\export.php on line 64
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\activity\export.php on line 67
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\app\activity\export.php on line 64
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\activity\export.php on line 67
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonType in C:\xampp\htdocs\reception\app\activity\export.php on line 64
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\activity\export.php on line 67
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\activity\export.php on line 67
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\activity\export.php on line 67
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\activity\export.php on line 67
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitEnquiryStatus in C:\xampp\htdocs\reception\app\activity\export.php on line 67
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPersonCreatedAt in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorOutTime in C:\xampp\htdocs\reception\app\activity\export.php on line 68
+[23-Nov-2023 16:35:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:35:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:35:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:35:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:42:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:43:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:43:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:43:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:43:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:43:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:43:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:43:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:43:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:44:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:44:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:44:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:44:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 66
+[23-Nov-2023 16:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 16:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPesonMeetWith in C:\xampp\htdocs\reception\app\activity\export.php on line 65
+[23-Nov-2023 17:58:15 Asia/Calcutta] PHP Warning:  Undefined array key "ToDate" in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 244
+[23-Nov-2023 17:58:15 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM  ...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM  ...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(251): _DB_COMMAND_('SELECT * FROM  ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 17:58:47 Asia/Calcutta] PHP Warning:  Undefined array key "ToDate" in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 244
+[23-Nov-2023 17:58:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM  ...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM  ...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(251): _DB_COMMAND_('SELECT * FROM  ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 17:58:52 Asia/Calcutta] PHP Warning:  Undefined array key "ToDate" in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 244
+[23-Nov-2023 17:58:52 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM  ...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM  ...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(251): _DB_COMMAND_('SELECT * FROM  ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 17:59:32 Asia/Calcutta] PHP Warning:  Undefined array key "ToDate" in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 244
+[23-Nov-2023 17:59:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM  ...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM  ...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(251): _DB_COMMAND_('SELECT * FROM  ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 17:59:34 Asia/Calcutta] PHP Warning:  Undefined array key "ToDate" in C:\xampp\htdocs\reception\app\sitevisit\index.php on line 244
+[23-Nov-2023 17:59:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM  ...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM  ...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(251): _DB_COMMAND_('SELECT * FROM  ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 17:59:38 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM  ...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM  ...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(251): _DB_COMMAND_('SELECT * FROM  ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12
+[23-Nov-2023 18:00:27 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'FromDate' in 'where clause' in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM  ...')
+#1 C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM  ...')
+#2 C:\xampp\htdocs\reception\app\sitevisit\index.php(251): _DB_COMMAND_('SELECT * FROM  ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\reception\acm\SysModules\CRUD_Modules\Select.php on line 12

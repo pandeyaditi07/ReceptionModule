@@ -1,0 +1,100 @@
+[11-Dec-2023 11:32:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[11-Dec-2023 11:33:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:09 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:09 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:09 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:14 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:14 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:14 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:14 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:15 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:15 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:15 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:15 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:15 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:15 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:15 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:15 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:16 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:16 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:16 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:16 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:16 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:16 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:16 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:16 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:17 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:17 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:17 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:17 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:19 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:19 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:33:19 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:33:19 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:42:27 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:42:27 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:42:27 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:42:27 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:48:28 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:48:28 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:48:28 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:48:28 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:48:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:48:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:48:48 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:48:48 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:49:24 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:49:24 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:49:24 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:49:24 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:51:14 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:51:14 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 11:51:14 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 11:51:14 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[11-Dec-2023 15:48:24 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:24 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:24 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:24 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:29 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:29 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:29 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:29 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:36 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:36 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:36 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:36 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:36 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:36 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:36 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:36 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:38 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:38 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:38 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:38 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:39 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:39 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:39 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:39 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:40 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:40 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 42
+[11-Dec-2023 15:48:40 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 15:48:40 Asia/Calcutta] PHP Warning:  Attempt to read property "reception_courier_status" on null in C:\xampp\htdocs\reception\include\forms\VisitorAddPopWindow.php on line 47
+[11-Dec-2023 16:34:01 Asia/Calcutta] PHP Warning:  include(../../include/forms/projectPopWindow.php.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\reception\app\project\index.php on line 390
+[11-Dec-2023 16:34:01 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/forms/projectPopWindow.php.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\reception\app\project\index.php on line 390
+[11-Dec-2023 16:34:48 Asia/Calcutta] PHP Warning:  include(../../include/forms/projectPopWindow.php.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\reception\app\project\index.php on line 390
+[11-Dec-2023 16:34:48 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/forms/projectPopWindow.php.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\reception\app\project\index.php on line 390
+[11-Dec-2023 16:34:51 Asia/Calcutta] PHP Warning:  include(../../include/forms/projectPopWindow.php.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\reception\app\project\index.php on line 390
+[11-Dec-2023 16:34:51 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/forms/projectPopWindow.php.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\reception\app\project\index.php on line 390
+[11-Dec-2023 16:36:52 Asia/Calcutta] PHP Warning:  include(../../include/forms/projectPopWindow.php.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\reception\app\project\index.php on line 390
+[11-Dec-2023 16:36:52 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/forms/projectPopWindow.php.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\reception\app\project\index.php on line 390
+[11-Dec-2023 16:39:25 Asia/Calcutta] PHP Warning:  include(../../include/forms/projectPopWindow.php.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\reception\app\project\index.php on line 390
+[11-Dec-2023 16:39:25 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/forms/projectPopWindow.php.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\reception\app\project\index.php on line 390

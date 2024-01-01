@@ -1,0 +1,88 @@
+[02-Nov-2023 11:21:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[02-Nov-2023 11:22:00 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:22:00 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:22:06 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:22:06 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:35:38 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:35:38 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:35:45 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:35:45 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:44:32 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:44:32 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:44:37 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:44:37 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:46:34 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:46:34 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:46:37 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:46:37 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:55:47 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:55:47 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:56:09 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:56:09 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:56:18 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:56:18 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:56:20 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:56:20 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:56:25 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:56:25 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:59:08 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:59:08 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 11:59:10 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 11:59:10 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:08:43 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:08:43 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:08:49 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:08:49 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:08:59 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:08:59 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:09:01 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:09:01 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:09:08 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:09:08 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:09:10 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:09:10 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:09:16 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:09:16 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:09:18 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:09:18 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:09:24 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:09:24 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:09:26 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:09:26 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:09:33 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:09:33 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 12:09:35 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 12:09:35 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 15:32:24 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 15:32:24 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 15:33:38 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 15:33:38 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 15:53:56 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 15:53:56 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 15:54:00 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 15:54:00 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 16:28:26 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 16:28:26 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 16:28:28 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 16:28:28 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 16:45:53 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 16:45:53 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 16:49:47 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 16:49:47 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 16:56:24 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 16:56:24 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 16:56:28 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 16:56:28 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 19:18:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[02-Nov-2023 19:18:58 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 19:18:58 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[02-Nov-2023 19:20:21 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[02-Nov-2023 19:20:21 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97

@@ -1,0 +1,9 @@
+[03-Nov-2023 15:28:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\reception\include\app\Header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\reception\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\reception\include\app\Header.php on line 20
+[03-Nov-2023 15:28:28 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[03-Nov-2023 15:28:28 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
+[03-Nov-2023 15:28:33 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\reception\include\app\Footer.php on line 96
+[03-Nov-2023 15:28:33 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\reception\include\app\Footer.php on line 97
